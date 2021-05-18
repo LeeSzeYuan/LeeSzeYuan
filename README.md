@@ -4,7 +4,7 @@
 🌱: I am passionate in **Web, App, ML development**.
 
     List of Skills
-    1. For Web Dev
+    1. For Web Dev :spider_web:
        - HTML & CSS
        - Front-End: Vanilla JavaScript
        - Back-End: PHP, NodeJS
@@ -19,10 +19,8 @@
        - Library: TensorFlow, Scikit-Learn
 
 
-- 🔭 I’m currently studying in Universiti Teknologi Malaysia (UTM)
-- 🌱 I’m currently learning Flutter and Python
 - 👯 I’m looking to collaborate on Wev and Machine Learning project
+
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
