@@ -40,3 +40,8 @@
 ### Connection
 - 📫 How to reach me: ...
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSzeYuan)](https://github.com/LeeSzeYuan/github-readme-stats)
+
+
+
