@@ -5,8 +5,8 @@
 ### Some fun fact about me
 :smile: I am... 
 - DSC Lead of ***Developer Student Clubs UTM 2020/2021***
-- Core Team member of ***[UTM Airost Team] (https://www.facebook.com/utmairost)***
-- Founder of ***[Zircon Tech UTM] (https://github.com/Zircon-Tech-UTM)***
+- Core Team member of ***[UTM Airost Team](https://www.facebook.com/utmairost)***
+- Founder of ***[Zircon Tech UTM](https://github.com/Zircon-Tech-UTM)***
 
 
 ### List of Skills
